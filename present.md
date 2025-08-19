@@ -17,7 +17,7 @@ footer: "Marp"
 ---
 
 <!-- Slide with Background Image -->
-<!-- _backgroundImage: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f') -->
+![bg](https://images.unsplash.com/photo-1522202176988-66273c2fd55f)
 <!-- _color: white-->
 
 # Growth in Digital Banking
@@ -42,4 +42,5 @@ $\mathcal{0}(n\log{n})$
 ---
 # Thank You
 Email: 23f3004310@ds.study.iitm.ac.in
+
 
